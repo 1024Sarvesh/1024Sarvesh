@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&lines=HTML+Developer;CSS+Designer;JavaScript+Learner;Anime+Fan+%F0%9F%8C%B8" />
 </p>
 
----
+
 
 <img align="right" alt="Anime Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
