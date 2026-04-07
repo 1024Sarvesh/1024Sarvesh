@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Sarvesh</h1>
+<h1 align="center">Hey 👋 I'm Sarvesh Kumar</h1>
 <h3 align="center">Frontend Developer | Anime Lover 🌸</h3>
 
 <p align="center">
