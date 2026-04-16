@@ -57,6 +57,6 @@
 
 ### 🌸 Fun Quote
 
-<p align="center">
- ### "Code. Debug. Anime. Repeat."
+### <p align="center">
+  "Code. Debug. Anime. Repeat."
 </p>
