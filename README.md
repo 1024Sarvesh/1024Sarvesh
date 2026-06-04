@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Sarvesh Kumar</h1>
-<h3 align="center">Frontend Developer | Anime Lover 🌸</h3>
+<h3 align="center">Backend Developer | Anime Lover 🌸</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&lines=HTML+Developer;CSS+Designer;JavaScript+Learner;Anime+Fan+%F0%9F%8C%B8" />
