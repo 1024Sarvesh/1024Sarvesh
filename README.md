@@ -1,48 +1,87 @@
-<h1 align="center">Hey 👋 I'm Sarvesh Kumar</h1>
-<h3 align="center">Backend Developer | Anime Lover 🌸</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&lines=HTML+Developer;CSS+Designer;JavaScript+Learner;Anime+Fan+%F0%9F%8C%B8" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A00FF,50:8A2BE2,100:000000&text=Sarvesh%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
+# ⚔️ Sarvesh Kumar
 
+### Backend Developer • JavaScript Learner • Anime Lover 🌸
 
-<img align="right" alt="Anime Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Backend+Developer;Future+Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript;Anime+Lover+%F0%9F%8C%B8;Always+Learning+New+Things" />
 
-### 👨‍💻 About Me
+</div>
 
-- 🌱 I’m currently learning **JavaScript**
-- 💻 I build websites using **HTML, CSS, JS**
+---
+
+<img align="right" width="320" src="https://media.tenor.com/dg7Th23TzFUAAAAC/anime.gif">
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **JavaScript**
+- 💻 Building websites using **HTML, CSS & JavaScript**
 - 🎯 Goal: Become a **Full Stack Developer**
-- 🎮 Love **Anime & Coding**
+- ⚔️ Inspired by continuous growth and self-improvement
+- 🌸 Anime + Coding = Favorite Combination
 
 ---
 
-### 🚀 Skills
+## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1024Sarvesh&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1024Sarvesh&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-### Connections With Me
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=1024Sarvesh&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024Sarvesh&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1024Sarvesh&theme=midnight-purple" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=1024Sarvesh&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1024Sarvesh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://x.com/sarvesh_dev_">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarvesh-kumar-6472a1396/">
@@ -50,13 +89,50 @@
 </a>
 
 <a href="https://github.com/1024Sarvesh">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
+
+---
+
+## 🌸 Favorite Anime Quotes
+
+<div align="center">
+
+> **"Arise."**  
+> — Sung Jin-Woo
+
+> **"The moment people come to know love, they run the risk of carrying hate."**  
+> — Pain
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+Code.
+Debug.
+Watch Anime.
+Repeat.
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=1024Sarvesh&color=8A2BE2&style=for-the-badge)
+
+</div>
 
 
-### 🌸 Fun Quote
 
-### <p align="center">
-  "Code. Debug. Anime. Repeat."
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1024Sarvesh/1024Sarvesh/output/github-contribution-grid-snake-dark.svg" />
 </p>
