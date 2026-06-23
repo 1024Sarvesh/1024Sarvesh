@@ -28,7 +28,7 @@
 Name: Sarvesh Kumar
 Role: Backend Developer
 Learning: JavaScript
-Goal: Full Stack Engineer
+Goal: Full Stack Developer
 Location: India 🇮🇳
 Focus: Clean Code & Problem Solving
 Status: Leveling Up Daily ⚔️
