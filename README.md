@@ -131,8 +131,3 @@ Repeat.
 
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1024Sarvesh/1024Sarvesh/output/github-contribution-grid-snake-dark.svg" />
-</p>
