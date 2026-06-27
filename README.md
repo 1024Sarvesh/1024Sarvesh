@@ -134,10 +134,6 @@ Task management application with Local Storage.
 
 </div>
 
-> Snake animation ke liye GitHub Actions setup karna padega.
-
----
-
 # ⚔️ Current Quest
 
 ```text
