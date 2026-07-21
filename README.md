@@ -140,7 +140,7 @@ Task management application with Local Storage.
 [✓] Learn HTML
 [✓] Learn CSS
 [⏳] Master JavaScript
-[ ] Learn Node.js
+[✓] Learn Node.js
 [ ] Learn MongoDB
 [ ] Build Full Stack Projects
 [ ] Get Developer Internship
