@@ -60,8 +60,8 @@ Status: Leveling Up Daily ⚔️
 HTML       ██████████ 100%
 CSS        █████████░ 90%
 JavaScript ███████░░░ 80%
-Node.js    ███░░░░░░░ 50%
-React      ░░░░░░░░░░ 20%
+Node.js    █████░░░░░ 50%
+React      ██░░░░░░░░ 20%
 ```
 
 ---
