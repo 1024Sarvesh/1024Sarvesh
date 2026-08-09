@@ -4,7 +4,7 @@
 
 # ⚔️ Shadow Developer
 
-### Backend Developer • JavaScript Learner • Future Full Stack Developer
+### Backend Developer • Frontend Developer • JavaScript Learner • Future Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Backend+Developer;Future+Full+Stack+Engineer;Building+Projects+Daily;JavaScript+Learner;Solo+Leveling+Fan+⚔️"/>
 
