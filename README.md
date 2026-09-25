@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,50:8A2BE2,100:000000&text=Sarvesh%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# ⚔️ Shadow Developer
+# ⚔️ Shadow Developer ⚔️
 
 ### Backend Developer • Frontend Developer • JavaScript Learner • Future Full Stack Developer
 
