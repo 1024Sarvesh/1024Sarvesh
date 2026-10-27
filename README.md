@@ -58,10 +58,11 @@ Status: Leveling Up Daily ⚔️
 
 ```text
 HTML       ██████████ 100%
-CSS        █████████░ 90%
-JavaScript ███████░░░ 80%
-Node.js    █████░░░░░ 50%
-React      ██░░░░░░░░ 20%
+CSS        ██████████ 100%
+JavaScript █████████░ 90%
+
+Node.js    █████████░ 90%
+React      ████████░░ 80%
 ```
 
 ---
@@ -141,8 +142,9 @@ Task management application with Local Storage.
 [✓] Learn CSS
 [⏳] Master JavaScript
 [✓] Learn Node.js
-[ ] Learn MongoDB
-[ ] Build Full Stack Projects
+[✓] Learn MongoDB
+[✓] Learn PG Sql
+[✓] Build Full Stack Projects
 [ ] Get Developer Internship
 ```
 
