@@ -26,8 +26,8 @@
 
 ```yaml
 Name: Sarvesh Kumar
-Role: Backend Developer
-Learning: JavaScript
+Role: Backend & Frontend Developer
+Learning: Mongo Db
 Goal: Full Stack Developer
 Location: India 🇮🇳
 Focus: Clean Code & Problem Solving
@@ -139,7 +139,7 @@ Task management application with Local Storage.
 ```text
 [✓] Learn HTML
 [✓] Learn CSS
-[⏳] Master JavaScript
+[✓] Master JavaScript
 [✓] Learn Node.js
 [✓] Learn MongoDB
 [✓] Learn PG Sql
